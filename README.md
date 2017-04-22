@@ -1,6 +1,6 @@
 # Github Search React App
 
-This is a simple app to search github repository bulit for learning react and redux frameworks.
+This is a simple app to search github repositories bulit for learning react and redux frameworks.
 
 ## Installation 
 
