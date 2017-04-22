@@ -2,14 +2,19 @@
 
 This is a simple app to search github repository bulit for learning react and redux frameworks.
 
-## Available Scripts
+## Installation 
 
-In the project directory, you can run:
+Clone the repository
 
-### `npm start`
+#### `git clone git@github.com:akshaykumar6/github-search.git`
 
-Runs the app in the development mode.<br>
+In the project directory, install dependencies:
+
+#### `npm install`
+
+and run 
+
+#### `npm start`
+
+Runs the app in the development mode.<br> 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
