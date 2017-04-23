@@ -1,7 +1,9 @@
 {
-  "name": "async",
+  "name": "github-search",
   "version": "0.0.1",
   "private": true,
+  "author": "Akshay Sharma <sharmakumar3092@gmail.com>",
+  "description": "A react app to search github repositories.",
   "devDependencies": {
     "react-scripts": "^0.9.5",
     "redux-logger": "^3.0.0"

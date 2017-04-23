@@ -30,7 +30,6 @@ const fetchRepos = searchQuery => dispatch => {
   return fetch(githubapi)
     .then(response => response.json())
     .then(json => {
-      console.log(json)
       dispatch(receiveRepos(searchQuery, json))
     })
 }
