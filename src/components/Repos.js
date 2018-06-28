@@ -1,5 +1,5 @@
-import React, { PropTypes } from 'react'
-
+import React from 'react'
+import PropTypes from 'prop-types';
 const Repos = ({repos}) => (
   <ul>
     {repos.map((repo, i) =>
